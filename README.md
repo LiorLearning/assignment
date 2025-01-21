@@ -46,7 +46,4 @@ This is a standard React Next.js project. You can install the necessary modules 
   - Game design and functionality
   - User experience
  
-## Deadline
-We will close taking in the submissions by Tuesday (21st Jan) EOD.
-
 Please reach out to [sahasra@mathkraft.org](mailto:sahasra@mathkraft.org) for any help or concerns.
